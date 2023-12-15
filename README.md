@@ -1,4 +1,4 @@
-# multi-tools
+# Multi-Tools
 Multi tools web app created with Next.js
   - Clock
   - Timer
